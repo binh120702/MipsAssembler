@@ -1,6 +1,6 @@
 # Mips Assembler
 
-This is an basic instructions only - mips assembler
+This is a basic instructions only - mips assembler
 
 include:
 * data segment
